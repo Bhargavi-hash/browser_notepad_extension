@@ -12,6 +12,7 @@
         "gecko": {
             "id": "mini-notepad@firefox-extension",
             "data_collection_permissions": {
+                "required": true,
                 "collects_sensitive_info": false,
                 "collects_technical_info": false,
                 "collects_error_info": false,
